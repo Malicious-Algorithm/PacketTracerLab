@@ -8,7 +8,7 @@ This repo is meant for me to study networking using CiscoPacketTracer and apply 
 Setting up labs and connecting devices together, understanding how it's done behind scenes.
 
 ## Why ?
-I understand that networking is a MUST within the CyberSec world. So i just watched NetworkChuck's YouTube Free CCNA vids. The way he explains OSI, TCP/IP, ARP, ICMP... is just fantastic! After that i went and downloaded Cisco Packet Tracer. A tool which you can install quite easy on Linux, MAC or Windows. I'm using Linux and the process of installation was a 'lil tricky however i wasn't gonna give up right?.
+I understand that networking is a MUST within the CyberSec world. So i just watched NetworkChuck's YouTube Free CCNA vids. The way he explains OSI, TCP/IP, ARP, ICMP... is just fantastic! After that i went and downloaded Cisco Packet Tracer. A tool which you can install quite easy on Linux, MAC or Windows. I'm using Linux and the installation process was a 'lil tricky however i wasn't gonna give up right?.
 
 NetworkChuck provided a file which you can then import to CiscoPacketTracer tool, this file was a lab he did and explained very detailed. I picked up on everything he explained throughout the videos as much as i could. Downloaded the .pkz file and start following hin hands on as he was explaining.
 
